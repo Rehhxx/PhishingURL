@@ -1,0 +1,21 @@
+# Data Processing and Analysis
+pandas
+numpy
+pickle-mixin
+
+# Machine Learning
+scikit-learn
+
+# API and Web Interface
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+
+# Visualization
+matplotlib
+seaborn
+
+#Prediction Analysis
+shap
